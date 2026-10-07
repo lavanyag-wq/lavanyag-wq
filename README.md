@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=lavanyag-wq&style=flat-square&color=2b6777" alt="profile views">
 <a href="https://github.com/lavanyag-wq?tab=followers"><img src="https://img.shields.io/github/followers/lavanyag-wq?style=flat-square&color=2b6777&label=followers" alt="followers"></a>
-<a href="mailto:lavanya.g@mycvcareer.com"><img src="https://img.shields.io/badge/open_to-DS_%26_ML_roles-7cf5c8?style=flat-square" alt="open to data science and ML roles"></a>
+<a href="mailto:hellolavanya15@gmail.com"><img src="https://img.shields.io/badge/open_to-DS_%26_ML_roles-7cf5c8?style=flat-square" alt="open to data science and ML roles"></a>
 
 </div>
 
@@ -24,7 +24,7 @@ hold an MS in Computer Science (Fairleigh Dickinson University, 2025).
   causal inference, and the craft of trustworthy offline evaluation
 - 💬 Happy to talk about: churn modeling, forecasting at scale,
   experiment design, feature pipelines on Spark and Delta Lake
-- 📫 Reach me: [lavanya.g@mycvcareer.com](mailto:lavanya.g@mycvcareer.com)
+- 📫 Reach me: [hellolavanya15@gmail.com](mailto:hellolavanya15@gmail.com)
 
 > I believe the hard part of data science is rarely the model: it is
 > knowing what your data can and cannot tell you, and shipping the
@@ -93,25 +93,16 @@ measurement: features that skew between training and serving, experiments
 read too early, metrics that stay green while something underneath is
 quietly wrong.
 
-## 📊 GitHub at a glance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lavanyag-wq&show_icons=true&theme=default_repocard&hide_border=true&bg_color=fcfdfe&title_color=2b6777&icon_color=2b6777" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyag-wq&layout=compact&hide_border=true&bg_color=fcfdfe&title_color=2b6777" alt="top languages" height="165">
-
-</div>
 
 ## 🤝 Let's connect
 
 <div align="center">
 
-<a href="mailto:lavanya.g@mycvcareer.com"><img src="https://img.shields.io/badge/email-lavanya.g%40mycvcareer.com-2b6777?style=for-the-badge" alt="email"></a>
-<a href="https://www.linkedin.com/in/FILL-IN-YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder"></a>
+<a href="mailto:hellolavanya15@gmail.com "><img src="https://img.shields.io/badge/email-lavanya.g%40mycvcareer.com-2b6777?style=for-the-badge" alt="email"></a>
+<a href="http://www.linkedin.com/in/lavanya-reddy-383b403a6"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder"></a>
 
 </div>
 
 <div align="center">
-<sub>Thanks for stopping by! The LinkedIn link is a placeholder: replace
-FILL-IN-YOUR-HANDLE with the real handle before publishing.</sub>
+
 </div>
