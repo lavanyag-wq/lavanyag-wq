@@ -98,7 +98,7 @@ quietly wrong.
 
 <div align="center">
 
-<a href="mailto:hellolavanya15@gmail.com "><img src="https://img.shields.io/badge/email-lavanya.g%40mycvcareer.com-2b6777?style=for-the-badge" alt="email"></a>
+<a href="mailto:hellolavanya15@gmail.com "><img src="https://img.shields.io/badge/email-hellolavanya15%40gmail.com-2b6777?style=for-the-badge" alt="email"></a>
 <a href="http://www.linkedin.com/in/lavanya-reddy-383b403a6"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder"></a>
 
 </div>
