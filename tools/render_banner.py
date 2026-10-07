@@ -56,9 +56,9 @@ def main() -> None:
 <text x="600" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17"
  fill="#d7e8f2">Data Scientist: ML, Predictive Analytics and MLOps</text>
 <text x="600" y="162" font-family="Helvetica, Arial, sans-serif" font-size="14"
- fill="#9fc2d4">Instruments that measure what the usual artefact cannot:</text>
+ fill="#9fc2d4">Turning large-scale behavioral data into models,</text>
 <text x="600" y="184" font-family="Helvetica, Arial, sans-serif" font-size="14"
- fill="#9fc2d4">whose bug, what the set can detect, what the procedure runs.</text>
+ fill="#9fc2d4">experiments and decisions that hold up in production.</text>
 </svg>'''
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(svg)
